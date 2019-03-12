@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/pulltorefresh_library" />
             <option value="$PROJECT_DIR$/xlistview_library" />
             <option value="$PROJECT_DIR$/zcr0226lx" />
